@@ -1,0 +1,6 @@
+case_id,status,steps_json
+case_33,INCOMPLETE,"[{""step"": ""Check exposure for email: ingrid.dahl@outlook.com"", ""result"": ""User data still exposed in: user_identities.csv""}]"
+case_35,INCOMPLETE,"[{""step"": ""Check exposure for email: g.silva76@gmail.com"", ""result"": ""User data still exposed in: user_identities.csv""}]"
+case_38,INCOMPLETE,"[{""step"": ""Check exposure for email: sipho.mokoena@gmail.com"", ""result"": ""User data still exposed in: user_identities.csv""}]"
+case_36,INCOMPLETE,"[{""step"": ""Check exposure for email: aadebayo3975@fastmail.com"", ""result"": ""User data still exposed in: user_identities.csv""}]"
+case_37,COMPLETE,"[{""step"": ""Check exposure for email: abena.o189491@zoho.com"", ""result"": ""No residual records or identifiers found. Purge verified.""}]"

@@ -1,0 +1,6 @@
+case_id,status,steps_json
+case_33,INCOMPLETE,"[{""step"": ""Comprehensive identifier & record check"", ""result"": ""User is still exposed in: user_identities.csv (matched via email)""}]"
+case_35,INCOMPLETE,"[{""step"": ""Comprehensive identifier & record check"", ""result"": ""User is still exposed in: user_identities.csv (matched via email)""}]"
+case_38,INCOMPLETE,"[{""step"": ""Comprehensive identifier & record check"", ""result"": ""User is still exposed in: user_identities.csv (matched via email)""}]"
+case_36,INCOMPLETE,"[{""step"": ""Comprehensive identifier & record check"", ""result"": ""User is still exposed in: user_identities.csv (matched via email)""}]"
+case_37,COMPLETE,"[{""step"": ""Comprehensive identifier & record check"", ""result"": ""No residual records, emails, or identifiers found across checked files.""}]"
